@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OkayApiAdmin", "OkayApiAdmin\OkayApiAdmin.csproj", "{D15B2154-7FE0-4CC1-8B7A-9C54CE52C5AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D15B2154-7FE0-4CC1-8B7A-9C54CE52C5AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D15B2154-7FE0-4CC1-8B7A-9C54CE52C5AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D15B2154-7FE0-4CC1-8B7A-9C54CE52C5AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D15B2154-7FE0-4CC1-8B7A-9C54CE52C5AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DF093A9-6362-4C25-B58F-A3606CEBE152}
+	EndGlobalSection
+EndGlobal
