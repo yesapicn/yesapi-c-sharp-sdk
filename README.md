@@ -2,3 +2,5 @@
 
 # yesapi-c-shar-sdk
 小白接口（YesApi.cn）C# SDK包
+
+相关教程文档：[C# Winform开发，小白接口管理系统 - V1.0（开发及使用说明）](https://blog.csdn.net/qq_17324713/article/details/83721603)
